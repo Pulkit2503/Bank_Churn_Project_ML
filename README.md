@@ -105,34 +105,34 @@ Size: 10,000 customers, 8 features
 Churn Rate: 20.37%
 
 Features Used:
-CreditScore (300-850)
+CreditScore  (300-850)
 
-Age (18-80)
+Age  (18-80)
 
-Balance (Account balance in INR)
+Balance  (Account balance in INR)
 
-NumOfProducts (1-4 banking products)
+NumOfProducts  (1-4 banking products)
 
-HasCrCard (Credit card ownership)
+HasCrCard  (Credit card ownership)
 
-IsActiveMember (Account activity status)
+IsActiveMember  (Account activity status)
 
-EstimatedSalary (Annual income in INR)
+EstimatedSalary  (Annual income in INR)
 
-Tenure (Years with bank)
+Tenure  (Years with bank)
 
 Target Variable:
 Exited (0 = Customer stays, 1 = Customer leaves)
 
 🎯 Model Performance
-Algorithm	Accuracy	Precision	Recall	F1-Score
-Random Forest	85.7%	83.2%	76.5%	79.7%
-Gradient Boosting	86.2%	84.1%	77.8%	80.8%
-Logistic Regression	81.1%	78.3%	70.2%	74.0%
-K-Nearest Neighbors	83.5%	80.6%	73.9%	77.1%
-Support Vector Machine	82.8%	79.4%	72.1%	75.6%
-Decision Tree	79.3%	75.8%	68.9%	72.2%
-Naive Bayes	76.5%	72.1%	65.3%	68.5%
+Algorithm	              Accuracy	Precision 	Recall	  F1-Score
+Random Forest	           85.7%      83.2%	    76.5%	     79.7%
+Gradient Boosting	       86.2%	    84.1%	    77.8%	     80.8%
+Logistic Regression	     81.1%	    78.3%	    70.2%	     74.0%
+K-Nearest Neighbors	     83.5%	    80.6%	    73.9%	     77.1%
+Support Vector Machine	 82.8%	    79.4%	    72.1%	     75.6%
+Decision Tree	           79.3%	    75.8%	    68.9%      72.2%
+Naive Bayes	             76.5%	    72.1%	    65.3%	     68.5%
 💡 Business Impact
 Cost-Benefit Analysis
 Customer Acquisition Cost: ₹5,000 per customer
