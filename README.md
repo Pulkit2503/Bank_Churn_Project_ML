@@ -126,13 +126,21 @@ Exited (0 = Customer stays, 1 = Customer leaves)
 
 🎯 Model Performance
 Algorithm	              Accuracy	Precision 	Recall	  F1-Score
+
 Random Forest	           85.7%      83.2%	    76.5%	     79.7%
+
 Gradient Boosting	       86.2%	    84.1%	    77.8%	     80.8%
+
 Logistic Regression	     81.1%	    78.3%	    70.2%	     74.0%
+
 K-Nearest Neighbors	     83.5%	    80.6%	    73.9%	     77.1%
+
 Support Vector Machine	 82.8%	    79.4%	    72.1%	     75.6%
+
 Decision Tree	           79.3%	    75.8%	    68.9%      72.2%
+
 Naive Bayes	             76.5%	    72.1%	    65.3%	     68.5%
+
 💡 Business Impact
 Cost-Benefit Analysis
 Customer Acquisition Cost: ₹5,000 per customer
