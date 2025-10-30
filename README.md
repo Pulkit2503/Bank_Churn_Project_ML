@@ -42,17 +42,22 @@ Bank_Churn_Project_ML/
 - pip (Python package manager)
 
 ### Step 1: Clone the Repository
+
 git clone https://github.com/Pulkit2503/Bank_Churn_Project_ML.git
 cd Bank_Churn_Project_ML
 
 Step 2: Install Dependencies
+
 pip install -r requirements.txt
 
 Step 3: Train the Models
+
 python model_training_complete.py
 
 Step 4: Launch Web Application
+
 streamlit run app.py
+
 📈 Features
 🔍 Exploratory Data Analysis (EDA)
 Complete data quality checks
