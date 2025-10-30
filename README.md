@@ -35,19 +35,10 @@ Bank_Churn_Project_ML/
 └── 📖 Documentation/
 └── README.md # This file
 
-text
-
-## 🛠️ Installation & Setup
-
-### Prerequisites
-- Python 3.8 or higher
-- pip (Python package manager)
-
-### Step 1: Clone the Repository
-```bash
+textbash
 git clone https://github.com/Pulkit2503/Bank_Churn_Project_ML.git
 cd Bank_Churn_Project_ML
-Step 2: Install Dependencies
+###Step 2: Install Dependencies
 bash
 pip install -r requirements.txt
 Step 3: Train the Models
@@ -194,3 +185,12 @@ Dataset Source: Kaggle - Bank Customer Churn Prediction
 Machine Learning Library: Scikit-learn
 
 Web Framework: Streamlit
+
+## 🛠️ Installation & Setup
+
+### Prerequisites
+- Python 3.8 or higher
+- pip (Python package manager)
+
+### Step 1: Clone the Repository
+```
