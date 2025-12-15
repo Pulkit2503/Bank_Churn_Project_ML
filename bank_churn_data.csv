@@ -1,4 +1,4 @@
-CreditScore,Coustomer_Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited
+Credit_Score,Coustomer_Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited
 699,34,7,738051.2113790426,1,1,1,4395300.867336499,0
 636,42,2,1233369.2694100975,2,1,1,6683264.51153015,0
 714,33,9,963842.6433660357,4,1,0,5368434.4590601865,0
